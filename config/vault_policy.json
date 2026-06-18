@@ -1,0 +1,6 @@
+{
+  "gateway_name": "Stateful-Tokenization-Vault",
+  "version": "2.0.0",
+  "token_prefix": "VAULT_TOKEN",
+  "token_entities": ["PERSON", "PHONE_NUMBER", "US_SSN", "LOCATION"]
+}
